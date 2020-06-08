@@ -1,0 +1,7 @@
+venv
+__pycache__
+gaze_tracking/__pycache__
+build
+dist
+*.spec
+.vscode
