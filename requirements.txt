@@ -25,7 +25,7 @@ numpy==1.17.4
 opencv-python==4.1.2.30
 pandas==0.24.2
 pika==1.1.0
-Pillow==6.2.2
+Pillow==8.3.2
 PyInstaller==3.6
 pylint==2.4.4
 pyrsistent==0.15.6
